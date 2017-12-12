@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanternUniversity", "LanternUniversity\LanternUniversity.csproj", "{5ACCE0C4-1766-4C45-8A99-5284977DC9D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanternUniversity.UnitTests", "test\LanternUniversity.UnitTests\LanternUniversity.UnitTests.csproj", "{C8962381-3880-4734-A6A8-2B639B0DCE74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ACCE0C4-1766-4C45-8A99-5284977DC9D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ACCE0C4-1766-4C45-8A99-5284977DC9D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ACCE0C4-1766-4C45-8A99-5284977DC9D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ACCE0C4-1766-4C45-8A99-5284977DC9D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8962381-3880-4734-A6A8-2B639B0DCE74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8962381-3880-4734-A6A8-2B639B0DCE74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8962381-3880-4734-A6A8-2B639B0DCE74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8962381-3880-4734-A6A8-2B639B0DCE74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
